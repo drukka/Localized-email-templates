@@ -1,0 +1,17 @@
+{
+  "name": "localized-email-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-templates": "^5.1.0",
+    "handlebars": "^4.5.1",
+    "i18n": "^0.8.3"
+  }
+}
